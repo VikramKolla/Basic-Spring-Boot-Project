@@ -1,4 +1,3 @@
-SpringBoot
 Basic Spring Boot Project.
 
 Has one Controller accepting a name from the user.
